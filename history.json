@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-04-29 13:26:22",
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "amount": 1.0,
+    "result": 0.92,
+    "rate": 0.92
+  },
+  {
+    "date": "2026-04-29 13:26:23",
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "amount": 1.0,
+    "result": 0.92,
+    "rate": 0.92
+  },
+  {
+    "date": "2026-04-29 13:26:23",
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "amount": 1.0,
+    "result": 0.92,
+    "rate": 0.92
+  },
+  {
+    "date": "2026-04-29 13:26:24",
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "amount": 1.0,
+    "result": 0.92,
+    "rate": 0.92
+  },
+  {
+    "date": "2026-04-29 13:26:32",
+    "from_currency": "USD",
+    "to_currency": "RUB",
+    "amount": 324.0,
+    "result": 29905.2,
+    "rate": 92.3
+  }
+]
